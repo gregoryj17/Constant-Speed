@@ -1,0 +1,18 @@
+c:\users\employee\documents\visual studio 2015\Projects\FormExample\FormExample\bin\Debug\FormExample.exe.config
+c:\users\employee\documents\visual studio 2015\Projects\FormExample\FormExample\bin\Debug\FormExample.exe
+c:\users\employee\documents\visual studio 2015\Projects\FormExample\FormExample\bin\Debug\FormExample.pdb
+c:\users\employee\documents\visual studio 2015\Projects\FormExample\FormExample\obj\Debug\FormExample.csprojResolveAssemblyReference.cache
+c:\users\employee\documents\visual studio 2015\Projects\FormExample\FormExample\obj\Debug\FormExample.Properties.Resources.resources
+c:\users\employee\documents\visual studio 2015\Projects\FormExample\FormExample\obj\Debug\FormExample.csproj.GenerateResource.Cache
+c:\users\employee\documents\visual studio 2015\Projects\FormExample\FormExample\obj\Debug\FormExample.exe
+c:\users\employee\documents\visual studio 2015\Projects\FormExample\FormExample\obj\Debug\FormExample.pdb
+C:\Users\employee\Documents\Visual Studio 2015\Projects\FormExample\FormExample\obj\Debug\FormExample.Form1.resources
+C:\Users\Jackson\Documents\-- School --\- 12th Grade -\CP\Game\assignment01\FormExample\bin\Debug\FormExample.exe.config
+C:\Users\Jackson\Documents\-- School --\- 12th Grade -\CP\Game\assignment01\FormExample\obj\Debug\FormExample.exe
+C:\Users\Jackson\Documents\-- School --\- 12th Grade -\CP\Game\assignment01\FormExample\obj\Debug\FormExample.pdb
+C:\Users\Jackson\Documents\-- School --\- 12th Grade -\CP\Game\assignment01\FormExample\bin\Debug\FormExample.exe
+C:\Users\Jackson\Documents\-- School --\- 12th Grade -\CP\Game\assignment01\FormExample\bin\Debug\FormExample.pdb
+C:\Users\Jackson\Documents\-- School --\- 12th Grade -\CP\Game\assignment01\FormExample\obj\Debug\FormExample.csprojResolveAssemblyReference.cache
+C:\Users\Jackson\Documents\-- School --\- 12th Grade -\CP\Game\assignment01\FormExample\obj\Debug\FormExample.Form1.resources
+C:\Users\Jackson\Documents\-- School --\- 12th Grade -\CP\Game\assignment01\FormExample\obj\Debug\FormExample.Properties.Resources.resources
+C:\Users\Jackson\Documents\-- School --\- 12th Grade -\CP\Game\assignment01\FormExample\obj\Debug\FormExample.csproj.GenerateResource.Cache
